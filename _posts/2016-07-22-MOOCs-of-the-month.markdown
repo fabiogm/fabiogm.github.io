@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "MOOCs of the month"
-date:   2016-07-17 13:11:23 -0300
+date:   2016-07-22 23:43:23 -0300
 categories: jekyll update
 ---
 
@@ -11,8 +11,8 @@ I probably have finished few of the many courses I have joined indeed.
 
 However when Coursera started to become popular and having more courses I decided to give MOOCs a try again. And it was precisely when 
 I fell in love with the concept. Given a little bit of effort now I was able to finish courses, gaining valuable knowledge that would be 
-hard to get elsewhere. On Coursera (and other platforms like EdX) you can have access to high quality Courses on many topics, 
-taught by top notch universities from all around the world.
+hard to get elsewhere. On [Coursera](https://www.coursera.org) (and other platforms like [EdX](https://www.edx.org)) you can have access 
+to high quality Courses on many topics, taught by top notch universities from all around the world.
 
 Of course I also have some reservations about online courses. To me personally heavy math courses are hard to follow on the computer. 
 I get distracted very easily when using computers, it's just too easy to switch browser tabs and get lost on a long chain of links. 
