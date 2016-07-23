@@ -1,0 +1,10 @@
+title: Fabio Gabriel
+description: > # this means to ignore newlines until "baseurl:"
+  Personal blog where I write about programming, data analysis and books I read.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://fabiogm.github.io" # the base hostname & protocol for your site
+twitter_username: carelesslisper
+github_username:  fabiogm
+
+# Build settings
+markdown: kramdown
