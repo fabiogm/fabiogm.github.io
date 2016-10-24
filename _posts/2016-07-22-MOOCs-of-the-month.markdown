@@ -2,7 +2,7 @@
 layout: post
 title:  "MOOCs of the month"
 date:   2016-07-22 23:43:23 -0300
-categories: jekyll update
+categories: MOOC music programming data-science
 ---
 
 I'm a great fan of MOOCs (Massive Open Online Courses) these days although when I first learned about the concept I didn't like it much. 
