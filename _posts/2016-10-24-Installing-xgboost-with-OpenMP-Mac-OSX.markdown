@@ -8,7 +8,7 @@ categories: programming data-science
 After losing a few hours (and my temper in the process) I thought I would share the steps to compile and install xgboost on a Mac OSX with
 OpenMP (for multi-threading) support. Official docs weren't terribly helpful.
 
-This is going to be graceful.
+This is not going to be graceful.
 
 First, download the code
 
