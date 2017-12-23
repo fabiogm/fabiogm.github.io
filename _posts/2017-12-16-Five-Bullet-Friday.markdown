@@ -5,7 +5,7 @@ date:   2017-12-16 00:41:00 -0300
 categories: fbf
 ---
 
-Inspired by Tim Ferris on Fridays I will be writing my list of five interesting things I saw/read/heard/discovered during week. Technically it is coming out on Saturday and that's because I'm lazy and a chronic procrastinator.
+Inspired by Tim Ferriss on Fridays I will be writing my list of five interesting things I saw/read/heard/discovered during week. Technically it is coming out on Saturday and that's because I'm lazy and a chronic procrastinator.
 
 ### "You and Your Research" by Hamming
 
